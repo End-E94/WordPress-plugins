@@ -9,7 +9,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create includes/modules/class-announce-bar-links.php that adds a Settings link to the plugins list _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Create includes/class-announce-bar-plugin.php that loads every module in includes/modules _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Create simple-announcement-bar.php with the WordPress plugin header, constants and the module loader _(done by roadmap bot, 2026-11-15, built-in)_
-- [ ] Create uninstall.php that deletes the plugin settings
+- [x] Create uninstall.php that deletes the plugin settings _(done by roadmap bot, 2026-11-15, built-in)_
 
 ## WordPress.org readiness and coding standards
 - [ ] Create readme.txt in the WordPress.org plugin readme format with description, installation, FAQ and changelog
