@@ -17,3 +17,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create composer.json with dev dependencies wp-coding-standards/wpcs and phpcompatibility/phpcompatibility-wp and lint and fix scripts _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Create languages/README.md explaining how to translate the plugin _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Create README.md with the plugin description, requirements, installation and development instructions _(done by roadmap bot, 2026-11-15, built-in)_
+
+## Cycle 2 - 2026-11-17
+- [ ] Create includes/modules/class-announce-bar-title.php
+- [ ] Create assets/css/announce-bar.css
